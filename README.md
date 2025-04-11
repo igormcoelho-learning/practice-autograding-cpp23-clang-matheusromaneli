@@ -13,7 +13,7 @@ If you want to practice this activity, just follow this link: (TODO: update)
 
 ## Full-Name-Of-Student
 
-**TODO - Matheus Lima Romaneli**
+**Matheus Lima Romaneli**
 
 ## Problem Description
 
